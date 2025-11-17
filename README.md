@@ -78,9 +78,9 @@ Los objetivos fueron:
 
 ### Evidencias
 
-![Guía 3 – Secrets en Colab](./img/guia3 colab.png)
+![Guía 3 – Secrets en Colab](./img/guia3_colab.png)
 
-![Guía 3 – Ejecución final](./img/guia3 finished.png)
+![Guía 3 – Ejecución final](./img/guia3_finished.png)
 
 ---
 
